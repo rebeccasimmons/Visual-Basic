@@ -1,0 +1,25 @@
+C:\Users\simmo\AppData\Local\Temporary Projects\Book Guide\bin\Debug\Book Guide.exe.config
+C:\Users\simmo\AppData\Local\Temporary Projects\Book Guide\bin\Debug\Book Guide.exe
+C:\Users\simmo\AppData\Local\Temporary Projects\Book Guide\bin\Debug\Book Guide.pdb
+C:\Users\simmo\AppData\Local\Temporary Projects\Book Guide\bin\Debug\Book Guide.xml
+C:\Users\simmo\AppData\Local\Temporary Projects\Book Guide\obj\Debug\Book Guide.vbprojAssemblyReference.cache
+C:\Users\simmo\AppData\Local\Temporary Projects\Book Guide\obj\Debug\Book_Guide.BookGuide.resources
+C:\Users\simmo\AppData\Local\Temporary Projects\Book Guide\obj\Debug\Book_Guide.Resources.resources
+C:\Users\simmo\AppData\Local\Temporary Projects\Book Guide\obj\Debug\Book Guide.vbproj.GenerateResource.cache
+C:\Users\simmo\AppData\Local\Temporary Projects\Book Guide\obj\Debug\Book Guide.vbproj.CoreCompileInputs.cache
+C:\Users\simmo\AppData\Local\Temporary Projects\Book Guide\obj\Debug\Book Guide.exe
+C:\Users\simmo\AppData\Local\Temporary Projects\Book Guide\obj\Debug\Book Guide.xml
+C:\Users\simmo\AppData\Local\Temporary Projects\Book Guide\obj\Debug\Book Guide.pdb
+C:\Users\simmo\Desktop\Final Project\Book Guide\Book Guide\bin\Debug\Book Guide.exe.config
+C:\Users\simmo\Desktop\Final Project\Book Guide\Book Guide\bin\Debug\Book Guide.exe
+C:\Users\simmo\Desktop\Final Project\Book Guide\Book Guide\bin\Debug\Book Guide.pdb
+C:\Users\simmo\Desktop\Final Project\Book Guide\Book Guide\bin\Debug\Book Guide.xml
+C:\Users\simmo\Desktop\Final Project\Book Guide\Book Guide\obj\Debug\Book Guide.vbprojAssemblyReference.cache
+C:\Users\simmo\Desktop\Final Project\Book Guide\Book Guide\obj\Debug\Book_Guide.BookGuide.resources
+C:\Users\simmo\Desktop\Final Project\Book Guide\Book Guide\obj\Debug\Book_Guide.Resources.resources
+C:\Users\simmo\Desktop\Final Project\Book Guide\Book Guide\obj\Debug\Book Guide.vbproj.GenerateResource.cache
+C:\Users\simmo\Desktop\Final Project\Book Guide\Book Guide\obj\Debug\Book Guide.vbproj.CoreCompileInputs.cache
+C:\Users\simmo\Desktop\Final Project\Book Guide\Book Guide\obj\Debug\Book Guide.exe
+C:\Users\simmo\Desktop\Final Project\Book Guide\Book Guide\obj\Debug\Book Guide.xml
+C:\Users\simmo\Desktop\Final Project\Book Guide\Book Guide\obj\Debug\Book Guide.pdb
+C:\Users\simmo\Desktop\Final Project\Book Guide\Book Guide\obj\Debug\Book_Guide.BookChoice.resources
